@@ -1,0 +1,23 @@
+{
+  "name": "javascript-unit-test",
+  "version": "1.0.0",
+  "description": "my first unit test in javascript by reading the article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesenelir/javascript-unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesenelir/javascript-unit-test/issues"
+  },
+  "homepage": "https://github.com/lesenelir/javascript-unit-test#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
